@@ -1,6 +1,7 @@
-# j
+# ReadMe
+ [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
-  j
+  Automatic readme generator
 
   ## Table of Contents
   * [Installation](#installation)
@@ -11,18 +12,21 @@
   * [Questions](#questions)
 
   ## Installation
-  j
+  Run node index.js
 
   ## Usage
-  j
+  Enter information prompted in terminal
 
   ## License 
-    BSD
-  undefined
+    Apache
 
   ## Contributing
-  false
+  Big help from tutor and other students at bootcamp
 
   ## Tests
+  Try both choosing none or any lisence
 
   ## Questions
+  ### Feel free to reach me if you have any questions:
+  https://github.com/jrrangai
+  Email: johnSmith@hotmail.com

@@ -78,17 +78,31 @@ const questions = [
     },
     {
         // Credits
-        type: 'confirm',
+        type: 'input',
         name: 'contributing',
         message: 'Would you like to list any collaborators alongside with their GitHub profiles, any thrid-party assets, or tutorials used?',
-        default: false,
+        validate: contributingInput => {
+            if (contributingInput) {
+                return true;
+            } else {
+                console.log('Please enter valid contributions!');
+                return false;
+            }
+        }
     },
     {
         // Tests
-        type: 'confirm',
+        type: 'input',
         name: 'tests',
         message: 'Would you like to write some tests for your application, and provide code examples alongside how to run them?',
-        default: false,
+        validate: testsInput => {
+            if (testsInput) {
+                return true;
+            } else {
+                console.log('Please enter a valid test for your project!');
+                return false;
+            }
+        }
     },
     {
         // Question1
