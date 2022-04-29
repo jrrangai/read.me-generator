@@ -1,7 +1,7 @@
-# ReadMe
- [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# ReadMe Generator
+ 
   ## Description
-  Automatic readme generator
+  Using Node.js I have created and automated ReadMe generator
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,21 +12,21 @@
   * [Questions](#questions)
 
   ## Installation
-  Run node index.js
+  Having VS code and Node.js
 
   ## Usage
-  Enter information prompted in terminal
+  Run node index and answer prompts
 
-  ## License 
-    Apache
+  
 
   ## Contributing
-  Big help from tutor and other students at bootcamp
+  Me, myself, and I
 
   ## Tests
-  Try both choosing none or any lisence
+  N/A
 
   ## Questions
   ### Feel free to reach me if you have any questions:
-  https://github.com/jrrangai
-  Email: johnSmith@hotmail.com
+  ### Github: https://github.com/jrrangai
+  ### or
+  ### Email: johnSmith@hotmail.com

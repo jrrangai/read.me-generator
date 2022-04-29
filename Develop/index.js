@@ -71,7 +71,7 @@ const questions = [
             if (licenseInput) {
                 return true;
             } else {
-                console.log('Select a lcense or none!');
+                console.log('Select a license or none!');
                 return false;
             }
         }
