@@ -1,12 +1,12 @@
 # ReadMe Generator
  
   ## Description
-  Using Node.js I have created and automated ReadMe generator
+  Using Node.js I have created and automated a readme generator :)
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
+  
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -15,7 +15,7 @@
   Having VS code and Node.js
 
   ## Usage
-  Run node index and answer prompts
+  run " node  index.js " in terminal
 
   
 
