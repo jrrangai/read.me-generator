@@ -1,4 +1,4 @@
-# Professional README Generator
+# <ins> Professional README Generator </ins>
 
 # GIVEN a command-line application that accepts user input:
 ## WHEN I am prompted for information about my application repository
